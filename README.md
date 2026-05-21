@@ -47,7 +47,7 @@ Your users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-interactive-rating-component-main/)
+[My Solution](https://dovlym.github.io/FEM-interactive-rating-component-main/)
 
 
 ## My process
